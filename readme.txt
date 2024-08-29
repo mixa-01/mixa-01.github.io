@@ -1,15 +1,3 @@
-==================================================================================================
-
-DESCRIPTION:
-
-MONICA is a carefully crafted and modern HTML website template designed for freelancers, social 
-media managers, and marketing consultants who help businesses and companies improve their online 
-presence and establish long-lasting relationships with their communities. It is an excellent tool 
-for telling people about your skills and credentials, services, and other offerings, giving them 
-a better idea of who you are.
-
-==================================================================================================
-
 
 LICENSE:
 
@@ -110,38 +98,7 @@ Replace the value of mailChimpURL with your mailchimp url.
 
 
 
--------------------------------------------------------------------------------------------------------
 
-
-GET THE LATEST VERSION:
-
-We update our templates on a regular basis so to make sure that you have the latest version, 
-always download the template files directly on our website(https://www.styleshout.com/)
-
-
-
--------------------------------------------------------------------------------------------------------
-
-
-SOURCES AND CREDITS:
-
-I've used the following resources as listed.
-
-Fonts:
- - DM Serif Display Font (https://fonts.google.com/specimen/DM+Serif+Display)
- - Roboto Flex Font (https://fonts.google.com/specimen/Roboto+Flex)
-
-Icons:
- - Boxicons (https://boxicons.com/)
- - Atomicons (https://atomicons.com/)
-
-Stock Photos and Graphics:
- - Unsplash.com (https://unsplash.com/)
- 
-Javascript Files:
- - MoveTo.js (https://github.com/hsnaydd/moveTo)
- - Prism.js (https://prismjs.com/)
- - Swiper JS (https://swiperjs.com/)
 
 -------------------------------------------------------------------------------------------------------
 
